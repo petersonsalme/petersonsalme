@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning <a href="https://www.golang.org/"><span>GO Lang</span><img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/gophercises_punching.gif" width="50"/></a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/peterson-vieira-salme/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/></a>  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petersonsalme&count_private=false&show_icons=true&hide=stars,issues)](https://github.com/petersonsalme)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsalme&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petersonsalme&count_private=false&show_icons=true&hide=stars)](https://github.com/petersonsalme) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsalme&layout=compact)
 
 <!--
 
