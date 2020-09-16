@@ -1,10 +1,8 @@
 ## Hello World :earth_americas:
 
 #### I'm Peterson:
-- 🌱 I’m currently learning GO Lang <img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/gophercises_punching.gif" width="50"/>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/peterson-vieira-salme/">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
-</a>  
+- 🌱 I’m currently learning <a href="https://www.golang.com/"><span>GO Lang</span><img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/gophercises_punching.gif" width="50"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/peterson-vieira-salme/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/></a>  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petersonsalme&count_private=false&show_icons=true&hide=stars,issues)](https://github.com/petersonsalme)
 
