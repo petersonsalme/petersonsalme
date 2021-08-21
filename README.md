@@ -12,18 +12,19 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">  
-   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
-   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">  
-  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">  
+    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">  
+    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
+    <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">  
+    <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">  
 </div>
 
 ##
 
 <div>
-  <a href="https://github.com/petersonsalme">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=petersonsalme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsalme&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/petersonsalme">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=petersonsalme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsalme&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
 </div>
 
 
