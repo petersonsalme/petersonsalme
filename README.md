@@ -1,7 +1,6 @@
 ## Hello World :earth_americas:
 
 #### I'm Peterson:
-- I’m currently working on [MovilePay](https://www.linkedin.com/company/movilepay/)
 
 
 <div>  
