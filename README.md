@@ -26,7 +26,7 @@
   [<img height="30" align="center" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/peterson-salme/ "Linkedin")
   [<img align="center" height="30" width="auto" src="./img/email_logo.png">](mailto:petersonsalme+github@gmail.com "Email")
   [<img align="center" height="33" width="auto" src="./img/cv_logo.png">](https://github.com/petersonsalme/petersonsalme "Resumé")
-  [<img align="center" height="30" width="auto" src="./img/leetcode_logo.png">](https://leetcode.com/petersonsalme "Leetcode")
+  [<img align="center" height="33" width="auto" src="./img/leetcode_logo_2.png">](https://leetcode.com/petersonsalme "Leetcode")
   
 </div>
 
