@@ -1,14 +1,21 @@
 ## Hello World :earth_americas:
 
-### I'm Peterson
+#### I'm Peterson
 
-### Technologies
-<div style="display: inline_block"><br>
+### Technologies for:
+
+#### Backend
+
+<div style="display: inline_block">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
+#### Frontend
+
+<div style="display: inline_block">
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 
@@ -16,7 +23,9 @@
 <div align=left>
 
   [<img height="30" align="center" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/peterson-salme/ "Linkedin")
-  [<img align="center" height="30" width="auto" src="./img/email_logo.png">](mailto:petersonsalme+github@gmail.com)
+  [<img align="center" height="30" width="auto" src="./img/email_logo.png">](mailto:petersonsalme+github@gmail.com "Email")
+  [<img align="center" height="30" width="auto" src="./img/cv_logo.png">](https://github.com/petersonsalme/petersonsalme "Resumé")
+  [<img align="center" height="30" width="auto" src="./img/leetcode_logo.png">](https://leetcode.com/petersonsalme "Leetcode")
   
 </div>
 
