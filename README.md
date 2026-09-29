@@ -1,25 +1,33 @@
+## Hi, I'm Peterson 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-salme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petersonsalme@gmail.com) 
+**Senior Software Engineer** with 12+ years building backend systems for **fintech, payments, identity and compliance**.
 
-## 🚀 Flagship Projects:
-- [**grpc-microservices**](https://github.com/petersonsalme/grpc-microservices): A demonstration of microservices architecture using gRPC and Go.
-- [**microservices-for-java-developers**](https://github.com/petersonsalme/microservices-for-java-developers): A Java-based microservices project.
-- [**blockchain-with-go**](https://github.com/petersonsalme/blockchain-with-go): A custom blockchain implementation in Go.
-- [**rest-api-with-jwt**](https://github.com/petersonsalme/rest-api-with-jwt): A RESTful API built with Go showcasing JWT authentication.
+Currently at **Coinbase** (via Turing), on the Identity, Onboarding & Compliance platform, helping decompose a legacy Ruby on Rails monolith into domain-driven Go microservices. Previously at **iFood (MovilePay)** and **PagBank**, and **Tech Lead of a Clojure team** in production on a part-time contract.
 
+- 🔐 **Domains:** KYC, CDD/EDD, AML/risk, GDPR data privacy, payments, monolith decomposition, feature-flagged migrations
+- 📈 **Impact:** contributed to a compliance automation effort that saved **US$2M+** in operating costs at Coinbase; led a migration off third-party automation tools that saves **R$1M+/year** for a Brazilian media company
+- 🌱 **Open source contributions:**
+  - [ai-memory](https://github.com/akitaonrails/ai-memory) (Rust): long-term memory and handoffs between AI coding agents
+  - [Pedestal](https://github.com/pedestal/pedestal) (Clojure): a framework for building web services and APIs
+- 🤖 **AI-assisted engineering:** Cursor, Claude Code, MCPs and multi-agent workflows for legacy discovery, planning and code review
+- 🌎 Based in Brazil (UTC-3) · English C1
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=petersonsalme&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=petersonsalme&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=petersonsalme&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-salme) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petersonsalme@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
 
----
-[![](https://komarev.com/ghpvc/?username=petersonsalme&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Languages**<br>
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%235881D8.svg?style=for-the-badge&logo=clojure&logoColor=white)
+- **Backend & messaging**<br>
+  ![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=google&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+- **Data & infra**<br>
+  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Side Projects
+
+Study projects I keep as reference implementations. My production work is in private company repositories.
+
+- [**grpc-microservices**](https://github.com/petersonsalme/grpc-microservices): Go services for auth, products and orders behind a Gin REST API gateway, talking over gRPC/Protobuf, with JWT auth, one logical Postgres database per service and a single `docker-compose up` to run it all.
+- [**rest-api-with-jwt**](https://github.com/petersonsalme/rest-api-with-jwt): Go REST API with short-lived access tokens and refresh tokens that can be revoked (tracked in Redis), a check that rejects unexpected signing algorithms, an OpenAPI 3 spec and tests.
+- [**microservices-for-java-developers**](https://github.com/petersonsalme/microservices-for-java-developers): polyglot services (Spring Boot, MicroProfile/Thorntail, Node.js) behind an Apache Camel gateway that calls them in parallel, based on the book by Benevides & Posta.
+- [**blockchain-with-go**](https://github.com/petersonsalme/blockchain-with-go): a minimal blockchain with SHA-256 linked blocks, chain validation and a longest-chain rule, with a README on the trade-offs of skipping P2P networking and PoW/PoS.
