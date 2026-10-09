@@ -2,10 +2,10 @@
 
 **Senior Software Engineer** with 12+ years building backend systems for **fintech, payments, identity and compliance**.
 
-Currently at **Coinbase** (via Turing), on the Identity, Onboarding & Compliance platform, helping decompose a legacy Ruby on Rails monolith into domain-driven Go microservices. Previously at **iFood (MovilePay)** and **PagBank**, and **Tech Lead of a Clojure team** in production on a part-time contract.
+Currently working on **Coinbase** projects (via Turing), on the Identity, Onboarding & Compliance platform, helping decompose a legacy Ruby on Rails monolith into domain-driven Go microservices. Previously at **iFood (MovilePay)** and **PagBank**, and formerly served as **Tech Lead of a Clojure team** on a part-time contract.
 
 - 🔐 **Domains:** KYC, CDD/EDD, AML/risk, GDPR data privacy, payments, monolith decomposition, feature-flagged migrations
-- 📈 **Impact:** contributed to a compliance automation effort that saved **US$2M+** in operating costs at Coinbase; led a migration off third-party automation tools that saves **R$1M+/year** for a Brazilian media company
+- 📈 **Impact:** contributed to compliance automation efforts that significantly reduced operating overhead at Coinbase; led a migration off third-party automation tools that saves **R$1M+/year** for a Brazilian media company
 - 🌱 **Open source contributions:**
   - [ai-memory](https://github.com/akitaonrails/ai-memory) (Rust): long-term memory and handoffs between AI coding agents
   - [Pedestal](https://github.com/pedestal/pedestal) (Clojure): a framework for building web services and APIs
